@@ -1,0 +1,16 @@
+*
+{
+  margin:0;
+  padding:0;
+}
+header
+{
+background-image:url(cyber1.jpg);
+height:100vh;
+background-size:cover;
+background-position:center;
+}
+.centerTable { margin: 0px auto; }
+
+.centerTable2 { margin: 0px auto; }
+
